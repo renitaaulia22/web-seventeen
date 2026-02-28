@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: "Roboto", sans-serif;
+    padding: 20px;
+}
+
+/* Background judul utama (Serenity Blue) */
+.bg-blue {
+    background-color: #92A8D1; 
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* Background sub-judul (Rose Quartz Pink) */
+.text-purple {
+    background-color: #F7CAC9; 
+    color: #333;
+    padding: 8px 15px;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+.space {
+    margin: 20px 0;
+    padding: 20px;
+    border: 3px dashed #92A8D1;
+    border-radius: 15px;
+    background-color: #ffffff;
+}
+
+/* Merapikan Tabel */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+th {
+    background-color: #F7CAC9;
+}
+
